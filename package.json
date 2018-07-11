@@ -1,0 +1,24 @@
+{
+  "name": "safechain",
+  "version": "1.0.0",
+  "description": "safechainjs will allow javascript or typescript to chain data safely.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabinadhikari/safechainjs.git"
+  },
+  "keywords": [],
+  "author": "Nabin Adhikari <mr.nabinadhikari@gmail.com> (https://github.com/nabinadhikari)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabinadhikari/safechainjs/issues"
+  },
+  "homepage": "https://github.com/nabinadhikari/safechainjs#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
