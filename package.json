@@ -1,5 +1,5 @@
 {
-  "name": "safechain",
+  "name": "safechainjs",
   "version": "1.0.0",
   "description": "safechainjs will allow javascript or typescript to chain data safely.",
   "main": "lib/index.js",
