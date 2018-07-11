@@ -25,6 +25,7 @@ const propertyWife = 'wife';
 const fname = safechain(obj, 'name', 'firstName', 'Unknown'); // Albert
 const address = safechain(obj, 'address', 'postcode', 0); // 0
 const wives = safechain(obj, propertyWife, []); // ['Maric', 'Elsa']
+```
 
 ## Test 
 ```sh
