@@ -2,7 +2,7 @@
   "name": "safechain",
   "version": "1.0.0",
   "description": "safechainjs will allow javascript or typescript to chain data safely.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha --reporter spec"
   },
